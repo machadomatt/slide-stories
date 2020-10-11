@@ -1,6 +1,6 @@
 # Slide Stories
 
-A simple Instagram-like stories slide with HTML, CSS and Javascript following Origamid's tutorial on [Youtube](https://www.youtube.com/watch?v=VaSr6uixmb0).
+A simple Instagram-like stories slide with HTML, CSS and JavaScript following Origamid's tutorial on [Youtube](https://www.youtube.com/watch?v=VaSr6uixmb0).
 
 ## Getting Started
 
